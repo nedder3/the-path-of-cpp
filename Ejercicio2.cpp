@@ -6,7 +6,7 @@ en la salida estandar el precio del producto al aplicarle IVA.*/
 using namespace std;
 
 int main(){
-	int precioProducto, iva ;
+	int precioProducto,  iva ;
 	
 	iva = 21;
 	
