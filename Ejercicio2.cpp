@@ -1,5 +1,5 @@
 /*. escribir un programa que Lea de la entrada estandar el precio de un producto y muestre 
-en la salida estandar el precio del producto al aplicarle IVA.*/
+en la salida estandar el precio del producto al aplicarle IVA.* /
 
 #include<iostream>
 
